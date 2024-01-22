@@ -1,0 +1,38 @@
+{
+  "templates": [
+    {
+      "name": "Accordion",
+      "path": "/accordion.html",
+      "type": "nunjucks"
+    },{
+      "name": "Bank details",
+      "path": "/bank-details.html",
+      "type": "nunjucks"
+    },
+    {
+      "name": "Character count",
+      "path": "/character-count.html",
+      "type": "nunjucks"
+    },
+    {
+      "name": "Checkboxes",
+      "path": "/checkboxes.html",
+      "type": "nunjucks"
+    },
+    {
+      "name": "Date input",
+      "path": "/bank-details.html",
+      "type": "nunjucks"
+    },
+    {
+      "name": "Radios",
+      "path": "/radios.html",
+      "type": "nunjucks"
+    },
+    {
+      "name": "Radios - inline",
+      "path": "/radios-inline.html",
+      "type": "nunjucks"
+    }
+  ]
+}

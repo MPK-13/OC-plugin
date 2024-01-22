@@ -1,0 +1,11 @@
+{
+  "name": "Opencast-Software-Templates",
+  "version": "1.0.0",
+  "description": "A set of GOV.UK templates created by the designers at Opencast Software but freely available for all to use.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Keeling",
+  "license": "ISC"
+}
