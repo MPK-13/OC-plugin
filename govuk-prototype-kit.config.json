@@ -33,6 +33,11 @@
       "name": "Radios - inline",
       "path": "/radios-inline.html",
       "type": "nunjucks"
+    },
+    {
+      "name": "Radios - with hints",
+      "path": "/radios-with-hints.html",
+      "type": "nunjucks"
     }
   ]
 }
